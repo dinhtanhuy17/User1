@@ -1,8 +1,8 @@
 //#include <iostream>
 //using namespace std;
 //int main() {
-//
-//	cout <<" hello world" endl;
+//	int n = 2 + 2;
+//	cout <<" hello world" << endl;
 //	system("pause");
 //	return 0;
 //}
